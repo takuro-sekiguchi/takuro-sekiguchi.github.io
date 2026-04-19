@@ -1,6 +1,6 @@
 # takuro-sekiguchi.com
 
-関口 拓郎の個人ポートフォリオサイト。静的HTMLで構成され、GitHub Pages で `https://takuro-sekiguchi.com` に公開される。
+個人開発アプリのポートフォリオサイト。静的HTMLで構成され、GitHub Pages で `https://takuro-sekiguchi.com` に公開される。
 
 ## 構成
 
