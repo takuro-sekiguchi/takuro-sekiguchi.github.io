@@ -1,2 +1,1 @@
-# AdMob publisher ID を取得後にここへ記入
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-7712920827148088, DIRECT, f08c47fec0942fa0
