@@ -1,0 +1,1 @@
+# takuro-sekiguchi.github.io
